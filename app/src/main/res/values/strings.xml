@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ConstraintLayout Animation Demo</string>
+    <string name="profile_button_text">Profile nav graph, start destination</string>
+    <string name="forgot_password_button_text">Login nav graph, forgot password destination</string>
+    <string name="login_button_text">Login nav graph, conditional destination</string>
+</resources>
